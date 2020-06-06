@@ -1,0 +1,6 @@
+5,401235368226,manogna,1994-03-24,654321781212,503,34,shiva,Gandhi,522234,hyderabad,telangana,9160435890,trial@gmail.com
+5,401235368227,manas,1994-03-24,654321781212,503,34,shiva,Gandhi,522234,hyderabad,telangana,9160435891,trial@gmail.com
+6,446577234162,PRAVEEN SHETTY,1991-02-23,446576234163,102,4-32-22/2,Apporva Appartment,Sindhu colony,500301,Hyderabad,Telangana,9923416372,praveen_shetty@gmail.com
+6,446577234152,PRANAY SINGH,1981-02-25,446576234163,501,2-11-221/2,Sai Appartment,Sai colony,500311,Hyderabad,Telangana,9921415161,pranay_singh@gmail.com
+7,446577234171,PRAVEEN SHETTY,1991-02-23,446576234163,102,4-32-22/2,Apporva Appartment,Sindhu colony,500301,Hyderabad,Telangana,9923416372,praveen_shetty@gmail.com
+7,446577234144,PRANAY SINGH,1981-02-25,446576234163,501,2-11-221/2,Sai Appartment,Sai colony,500311,Hyderabad,Telangana,9921415161,pranay_singh@gmail.com
